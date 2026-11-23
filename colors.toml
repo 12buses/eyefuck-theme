@@ -1,0 +1,36 @@
+mode = "light"
+
+# EYEFUCK — MAXIMUM PAIN EDITION.
+# Pure complementary opposites that vibrate when adjacent:
+# green #00ff00 vs magenta #ff00ff, red #ff0000 vs cyan #00ffff.
+# Zero subtlety. Zero mercy.
+
+accent = "#ccff00"
+selection = "#ffff00"
+muted = "#ff00aa"
+
+background = "#eaff2f"
+dark_background = "#ccff00"
+darker_background = "#aaff00"
+lighter_background = "#ffff66"
+
+foreground = "#000000"
+dark_foreground = "#1a1a1a"
+light_foreground = "#4d4d00"
+bright_foreground = "#000000"
+
+red = "#ff0055"
+yellow = "#ffff00"
+orange = "#ff8800"
+green = "#00ff00"
+cyan = "#00ffff"
+blue = "#0044ff"
+magenta = "#ff00ff"
+brown = "#aa6600"
+
+bright_red = "#ff0055"
+bright_yellow = "#ffff00"
+bright_green = "#00ff00"
+bright_cyan = "#00ffff"
+bright_blue = "#0044ff"
+bright_magenta = "#ff00ff"
